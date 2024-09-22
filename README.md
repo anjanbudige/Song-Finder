@@ -15,7 +15,7 @@ All in one song finder with high-quality songs, albums, playlists, and more from
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/anjan-budige/Song-Finder
+   git clone https://github.com/anjanbudige/Song-Finder
    cd Song-Finder
    ```
    set your api in index.php page
