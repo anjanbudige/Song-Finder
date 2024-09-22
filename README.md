@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Designed+by+Anjan+Budige;A+simple+and+efficient+song+finder!;Almost+all+songs+search;High+quality+Music;)
 
 
-![GitHub License](https://img.shields.io/github/license/anjan-budige/Song-Finder)
+![GitHub License](https://img.shields.io/github/license/anjanbudige/Song-Finder)
 
 All in one song finder with high-quality songs, albums, playlists, and more from different api's.
 
